@@ -44,7 +44,9 @@ const dodaj = () => {
   licznik++;
   pokaz();
 }
-dsad
+const dasdas = {
+  
+}
 const odejmij = () => {
   licznik--;
   console.log('odejmij');
